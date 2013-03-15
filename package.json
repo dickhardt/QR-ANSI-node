@@ -1,0 +1,12 @@
+{ "name": "qransi"
+, "version": "0.0.2"
+, "description": "Node module for creating QR codes in ANSI"
+, "keywords": ["ANSI","QR"]
+, "author": "Dick Hardt dickhardt@gmail.com"
+, "license": "MIT"
+, "main": "./index"
+, "repository":
+  { "type": "git"
+  , "url": "http://github.com:dickhardt/node-A2P3.git"
+  }
+}
